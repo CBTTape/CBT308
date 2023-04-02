@@ -1,0 +1,8 @@
+2023-04-02 23:19:53.990947 - Initialized conversion of CBT308
+2023-04-02 23:19:54.027299 - Received CBT.V504.FILE308.PDS from FILE308.XMI 
+2023-04-02 23:19:54.029631 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:19:54.031110 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/$$$DOC
+2023-04-02 23:19:54.032132 - Found $PICTURE.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/$PICTURE
+2023-04-02 23:19:54.033132 - Found @FILE308.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/@FILE308
+2023-04-02 23:19:54.034124 - Found LM00031A.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/LM00031A
+2023-04-02 23:19:54.035074 - Found LM00031B.txt (text/plain) in CBT.V504.FILE308.PDS, moved to PDS/LM00031B
